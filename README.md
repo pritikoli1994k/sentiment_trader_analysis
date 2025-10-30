@@ -1,2 +1,19 @@
-# sentiment_trader_analysis
-This project studies the connection between Bitcoin market sentiment (Fear or Greed) and trader performance using real trading data from Hyperliquid. By combining sentiment trends with trader metrics like profit/loss, leverage, and position size, the goal is to discover how emotions in the market influence trading outcomes.
+# Bitcoin Market Sentiment vs Trader Performance
+
+## Objective
+Explore how Bitcoin market sentiment (Fear/Greed) impacts trader performance on Hyperliquid.
+
+## Tools Used
+- Python (Pandas, Matplotlib, Scikit-learn)
+- VS Code for development
+- Data visualization with Seaborn
+
+## Steps to Run
+1. Clone or create this folder in VS Code.
+2. Place CSV files in the `data/` folder.
+3. Run:
+4. 
+  bash
+   pip install -r requirements.txt
+   python main.py
+
